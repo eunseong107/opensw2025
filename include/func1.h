@@ -1,8 +1,8 @@
 #ifdef FUNC1_H
-#define FUCN1_H
+#define FUNC1_H
 
 #include <stdio.h>
 
 void foo(void);
 
-#endif // FUCN1_H
+#endif // FUNC1_H
